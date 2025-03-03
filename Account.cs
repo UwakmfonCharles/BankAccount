@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Polymorpism
+namespace BankAccount
 {
     public class Account
     {
